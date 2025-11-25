@@ -19,10 +19,14 @@
 body {
   background-color: var(--light);
   color: var(--dark);
-  line-height: 1.6;
 }
 
 
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: var(--dark);
+}
 
 .container {
   padding: 0 150px;
@@ -81,11 +85,6 @@ body {
   min-width: 300px;
 }
 
-h1 {
-  font-size: 2rem;
-  margin-bottom: 20px;
-  color: var(--dark);
-}
 
 .opportunities-content p {
   margin-bottom: 20px;

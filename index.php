@@ -62,7 +62,7 @@
 
         <!-- Mission Section -->
         <section class="mission-section section-padding">
-            <h1>One connection Can turn into many. Creating a network of opportunities</h1>
+            <h1>One connection Can turn into many.</br> Creating a network of opportunities</h1>
             <div class="flex">
                 <div class="mission-content">
                     <p>Sharing our thoughts, emotions, and inspirations creates an empathetic space to offer visibility to one another. It supports identifying and exploring new opportunities for collective good.</p>
